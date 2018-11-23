@@ -1,0 +1,28 @@
+{
+  "name": "ipip-ipdb",
+  "version": "0.1.0",
+  "description": "IPIP.net 官方支持的 IP 数据库 ipdb 格式查询代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipipdotnet/ipdb-nodejs.git"
+  },
+  "keywords": [
+    "ipip",
+    "location",
+    "geolocation",
+    "geo",
+    "ipdb",
+    "datx",
+    "geoip"
+  ],
+  "author": "frk@ipip.net",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ipipdotnet/ipdb-nodejs/issues"
+  },
+  "homepage": "https://github.com/ipipdotnet/ipdb-nodejs#readme"
+}
