@@ -1,2 +1,4 @@
 # ipdb-nodejs
-ipdb format 
+
+## Installing
+<pre>npm i ipip-ipdb</pre>
