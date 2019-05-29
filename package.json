@@ -1,6 +1,6 @@
 {
   "name": "ipip-ipdb",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "IPIP.net 官方支持的 IP 数据库 ipdb 格式查询代码",
   "main": "index.js",
   "scripts": {
